@@ -1,6 +1,6 @@
 ### Olá, meu nome é Raphael e seja bem vindo ao meu mundo 🌎 !
 
-👾 Atualmente estudando JavaScript
+👾 Atualmente a procura de um estágio 👾
 
 <div align="center">
   <a href="https://github.com/RaphaelSBarros">
