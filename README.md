@@ -2,7 +2,7 @@
 
 - :mortar_board: Analysis and Systems Development student at Católica SC :mortar_board:
 - :computer: Learning Full-stack Javascript development at B7Web :computer:
-- :construction: Building my Personal Portfolio :construction:
+- Portfolio: https://raphaelsbarros.github.io/react-portfolio/
 
 <div align="center">  
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelSBarros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117"/> 
