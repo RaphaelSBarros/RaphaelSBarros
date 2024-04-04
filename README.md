@@ -5,8 +5,9 @@
 - Portfolio: https://raphaelsbarros.github.io/react-portfolio/
 
 <div align="center">  
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelSBarros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117"/> 
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelSBarros&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=6495ED&bg_color=0d1117"/>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelSBarros&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelSBarros&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/>
+  <img width="50%" src="https://github.r2v.ch/codewars?user=RaphaelSBarros&theme=nightowl&hide_clan=true"/>
 </div>
 
 ### Main skills:
