@@ -2,7 +2,7 @@
 
 - :mortar_board: Analysis and Systems Development student at Católica SC :mortar_board:
 - :computer: Learning Full-stack Javascript development at B7Web :computer:
-- Portfolio: https://raphaelsbarros.github.io/react-portfolio/
+- :briefcase: RH Automation Specialist at Whirlpool Corporation :briefcase:
 
 <div align="center">  
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelSBarros&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> 
@@ -46,3 +46,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens)
   ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
+
+## Let's Talk!
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raphaelsbarros.github.io/react-portfolio/)</div>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelalexsandr01@gmail.com)
+
+##
