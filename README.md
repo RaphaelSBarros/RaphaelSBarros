@@ -2,7 +2,7 @@
 
 - :mortar_board: Analysis and Systems Development student at Católica SC :mortar_board:
 - :computer: Learning Full-stack Javascript development at B7Web :computer:
-- :briefcase: RH Automation Specialist at Whirlpool Corporation :briefcase:
+- :briefcase: Support Analyst at SZ Soluções :briefcase:
 
 <div align="center">  
   <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelSBarros&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=00bfbf&text_color=7fdbca&bg_color=011627"/> 
